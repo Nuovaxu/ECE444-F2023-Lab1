@@ -30,4 +30,7 @@ I named the venv "myproject" here
 
 ## Activity 3:
 ### commit message indicating that you finish activity 3:
+![image](https://github.com/Nuovaxu/ECE444-F2023-Lab1/assets/114842917/db6a0874-e1f2-4651-a154-04e40501a3a7)
+
 ### screenshot showing that you have successfully finish the task:
+![image](https://github.com/Nuovaxu/ECE444-F2023-Lab1/assets/114842917/38842d11-405a-4086-837e-1dd7e65afd5d)
