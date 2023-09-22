@@ -13,3 +13,13 @@ The code examples for the first edition of the book were moved to a different re
 ## Editor: Nuo Xu
 ## Note: this repo is a clone of https://github.com/miguelgrinberg/flasky.
 
+
+## Activity 1:
+![image](https://github.com/Nuovaxu/ECE444-F2023-Lab1/assets/114842917/5ff929c0-d484-4c1e-b6f3-1e9c5e234159)
+
+
+## Activity 2:
+### Two commits :
+
+### screenshot of my hello world html page:
+
