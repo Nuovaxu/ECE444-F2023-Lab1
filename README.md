@@ -34,3 +34,15 @@ I named the venv "myproject" here
 
 ### screenshot showing that you have successfully finish the task:
 ![image](https://github.com/Nuovaxu/ECE444-F2023-Lab1/assets/114842917/38842d11-405a-4086-837e-1dd7e65afd5d)
+
+## Activity 4:
+### Two commits:
+![image](https://github.com/Nuovaxu/ECE444-F2023-Lab1/assets/114842917/849863a5-97bb-49ea-97bf-2b7a2db1a02b)
+![image](https://github.com/Nuovaxu/ECE444-F2023-Lab1/assets/114842917/3291d0f0-9430-4c50-b53a-c90b865f46f6)
+
+### Four screenshots:
+![image](https://github.com/Nuovaxu/ECE444-F2023-Lab1/assets/114842917/7ca68eaa-2b75-4442-84c5-70c22fcb7ff7)
+![image](https://github.com/Nuovaxu/ECE444-F2023-Lab1/assets/114842917/fd88019c-2e3e-4aeb-80aa-85922f4d796d)
+![image](https://github.com/Nuovaxu/ECE444-F2023-Lab1/assets/114842917/d2c5aa5d-cab8-443c-84dd-801da7f36d66)
+![image](https://github.com/Nuovaxu/ECE444-F2023-Lab1/assets/114842917/034375bb-ee0b-485e-9a8e-d0e85f6f9124)
+
