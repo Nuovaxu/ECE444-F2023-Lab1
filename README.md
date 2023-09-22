@@ -15,11 +15,19 @@ The code examples for the first edition of the book were moved to a different re
 
 
 ## Activity 1:
+I named the venv "myproject" here
 ![image](https://github.com/Nuovaxu/ECE444-F2023-Lab1/assets/114842917/5ff929c0-d484-4c1e-b6f3-1e9c5e234159)
 
 
 ## Activity 2:
 ### Two commits :
+![image](https://github.com/Nuovaxu/ECE444-F2023-Lab1/assets/114842917/c794ff67-2a69-4996-bd81-31fa6011234c)
+![image](https://github.com/Nuovaxu/ECE444-F2023-Lab1/assets/114842917/828fd5b3-a168-4401-979e-0f2d41dd0a29)
+
 
 ### screenshot of my hello world html page:
+![image](https://github.com/Nuovaxu/ECE444-F2023-Lab1/assets/114842917/79ca40f3-1793-42f9-bd1e-944cbbe07685)
 
+## Activity 3:
+### commit message indicating that you finish activity 3:
+### screenshot showing that you have successfully finish the task:
